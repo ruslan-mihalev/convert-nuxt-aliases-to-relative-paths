@@ -1,1 +1,1 @@
-# convert-nuxt-aliases-to-relative-paths
+# To convert nuxt aliases to relative paths
