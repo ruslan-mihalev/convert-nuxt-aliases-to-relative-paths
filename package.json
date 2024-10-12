@@ -1,0 +1,24 @@
+{
+  "name": "convert-nuxt-aliases-to-relative-paths",
+  "version": "1.0.0",
+  "description": "To convert nuxt aliases to relative paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan-mihalev/convert-nuxt-aliases-to-relative-paths.git"
+  },
+  "keywords": [
+    "nuxt",
+    "layer",
+    "alias"
+  ],
+  "author": "Ruslan Mikhalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan-mihalev/convert-nuxt-aliases-to-relative-paths/issues"
+  },
+  "homepage": "https://github.com/ruslan-mihalev/convert-nuxt-aliases-to-relative-paths#readme"
+}
