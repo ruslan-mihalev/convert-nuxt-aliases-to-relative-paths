@@ -1,0 +1,1 @@
+# convert-nuxt-aliases-to-relative-paths
